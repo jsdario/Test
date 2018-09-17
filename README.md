@@ -33,3 +33,9 @@ $ npm i
 ```bash
 $ npm start
 ```
+
+### Testing Scope 🔬
+You need to have write permissions to a repo with open Pull Requests to profit
+from the https://jsdario.github.io/scope to read the collaborators list and show
+actual value to software developers.
+
