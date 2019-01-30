@@ -10,7 +10,7 @@ app.all('/', function(request, response) {
     }
   
     if (stderr) {
-      return response.status(500).send(stderr)
+      return response.status(200).send(stderr)
     }
   
     response.sendFile('./daily-change.txt');
