@@ -9,3 +9,12 @@ Let's see how far do we get https://github.com/iblancasa/GitHubRankingsSpain
 [España](https://github.com/iblancasa/GitHubRankingsSpain/blob/master/spain-region.md) 🇪🇸
 
 (Obviously the flags of Hong Kong and Nigeria are not those of Sevilla and Andalucia, but the colors do match!)
+
+
+## Why?
+For much that I like and support the idea of having a ranking of open source contributors in Spain (and worldwide) I created this repo with two main targets:
+
+1. Gather the attention of mediocre recruiters
+2. Fake activity and scale artificially in those rankings
+
+Gathering brute statistics of primary data sources (e.g. # of commits) is a method that I don't find valuable as a way to actually measure cognitive work. To know more about the topic read my piece in Hackernoon about [Scope 🔬](https://hackernoon.com/measure-a-developers-impact-e2e18593ac79)
